@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @mateusfrigo
-- 👀 I’m interested in language programs like JAVA, Oracle SQL, HTML, CSS and Javascript.
-- 🌱 I’m currently learning Javacript and Java, on how to improve webpages and how to make it work fast and clean.
-- 💞️ I’m looking to collaborate on teams focused on web development. 
-- 📫 You can reach me in my e-mail: mateusfrigo97@icloud.com or in my phone number: +55 (11) 993571160.
+### &#128483; Olá, meu nome é Mateus Frigo, tenho 24 anos, sou formado em Análise e Desenvolvimento de Sistemas pela FATEC e Gestão de Tecnologia da Informação pela FIAP. Atuo como Analista de Sistemas no Enxuto Supermercados, sendo o principal responsável pelo ERP da empresa, que é o Consinco da TOTVS. Gosto muito de programar principalmente nas linguagens Oracle SQL, Java, HTML e CSS e Javascript.
 
-<!---
-mateusfrigo/mateusfrigo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Abaixo alguns links onde você pode me encontrar:
+
+#####  &#128188;Linkedin: https://www.linkedin.com/in/mateusfrigo/
+#####  &#128233;E-mail: mateusfrigo97@icloud.com
+
+Vamos nos conectar? &#127760;
+
+
